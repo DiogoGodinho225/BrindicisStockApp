@@ -55,7 +55,7 @@ The **React** frontend is responsible for the user interface and interaction, wh
 Navigate to the frontend directory:
 
 ```bash
-cd frontend
+cd stock.brindicis
 ```
 
 Install dependencies:
@@ -75,7 +75,7 @@ npm run dev
 Navigate to the Laravel directory:
 
 ```bash
-cd project root
+cd stock.brindicis
 ```
 
 Install PHP dependencies:
